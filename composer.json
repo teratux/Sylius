@@ -51,7 +51,7 @@
         "php-http/guzzle6-adapter": "^2.0",
         "polishsymfonycommunity/symfony-mocker-container": "^1.0",
         "ramsey/uuid": "^3.9",
-        "sonata-project/block-bundle": "^4.2",
+        "sonata-project/block-bundle": "dev-master",
         "stof/doctrine-extensions-bundle": "^1.4",
         "swiftmailer/swiftmailer": "^6.2",
         "sylius-labs/association-hydrator": "^1.1.3",
